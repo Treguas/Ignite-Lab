@@ -67,12 +67,6 @@ export function Subscribe() {
         </div>
       </div>
       <img src={codeMockup} className="mt-4 lg:mt-0" alt="imagem de fundo" />
-      <div className="flex flex-col font-thin w-full text-sm p-5  md:flex-row items-center justify-between bg-gray-700 border-t border-gray-600 gap-10 md:text-white-600 ">
-        <Logo />
-        <p className="">
-        Treguas - Todos os direitos reservados
-        </p>
-      </div>
     </div>
   )
 }
